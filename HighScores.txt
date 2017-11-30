@@ -1,0 +1,7 @@
+Yoshi 9
+Peach 8
+Luigi 7
+Mario 5
+Toad 3
+Wario 3
+Bowser 0
